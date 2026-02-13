@@ -1,4 +1,6 @@
 npm install to install the packages
+
+
 npm run dev to start the project
 
 <img width="1366" height="736" alt="Screenshot from 2026-02-13 11-01-08" src="https://github.com/user-attachments/assets/6a87ef5b-90a5-4e47-99c2-b8ea5c7fab38" />
